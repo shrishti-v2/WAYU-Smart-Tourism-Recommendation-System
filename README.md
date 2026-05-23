@@ -70,10 +70,10 @@ WAYU is an AI-powered tourism recommendation platform that provides personalized
 - K-Means Clustering
 - Pandas
 
-## Project Structure
+## 📂 Project Structure
 
+```text
 WAYU
-│
 ├── backend
 │   ├── data
 │   ├── ml
@@ -93,11 +93,12 @@ WAYU
 │   └── package.json
 │
 └── README.md
+```
 
 ## Installation Guide
 
 ### Step 1: Clone Repository
-git clone https://github.com/YOUR_USERNAME/WAYU-Smart-Tourism-Recommendation-System.git
+git clone https://github.com/shrishti-v2/WAYU-Smart-Tourism-Recommendation-System.git
 
 ### Step 2: Navigate to Project
 cd WAYU-Smart-Tourism-Recommendation-System
@@ -154,3 +155,9 @@ Frontend runs on: http://localhost:3000
 - Travel booking platforms
 - AI travel assistants
 - Smart city tourism solutions
+
+## Author
+
+**Shrishti Vishwakarma**  
+Final Year B.Sc Computer Science Student  
+WAYU – Smart Tourism Recommendation System
