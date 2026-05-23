@@ -70,7 +70,7 @@ WAYU is an AI-powered tourism recommendation platform that provides personalized
 - K-Means Clustering
 - Pandas
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 WAYU
