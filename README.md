@@ -155,7 +155,7 @@ Frontend runs on: http://localhost:3000
 ![Profile Page](screenshots/profile.png)
 
 ### Saved Trips
-![Saved Trips](screenshots/saved-trips.png)
+![Saved Trips](screenshots/save-trips.png)
 
 ### Top Destinations
 ![Top Destinations](screenshots/top-destinations.png)
