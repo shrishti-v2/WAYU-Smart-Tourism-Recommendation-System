@@ -70,7 +70,7 @@ WAYU is an AI-powered tourism recommendation platform that provides personalized
 - K-Means Clustering
 - Pandas
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 WAYU
@@ -139,6 +139,26 @@ Frontend runs on: http://localhost:3000
    - Popularity score
    - Safety score
    - Explanation for recommendation
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Planner Page
+![Planner Page](screenshots/planner.png)
+
+### Recommendation Page
+![Recommendation Page](screenshots/recommendations.png)
+
+### Profile Page
+![Profile Page](screenshots/profile.png)
+
+### Saved Trips
+![Saved Trips](screenshots/saved-trips.png)
+
+### Top Destinations
+![Top Destinations](screenshots/top-destinations.png)
 
 ## Future Scope
 
