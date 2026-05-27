@@ -98,26 +98,68 @@ WAYU
 ## Installation Guide
 
 ### Step 1: Clone Repository
+
+```bash
 git clone https://github.com/shrishti-v2/WAYU-Smart-Tourism-Recommendation-System.git
+```
+
+---
 
 ### Step 2: Navigate to Project
+
+```bash
 cd WAYU-Smart-Tourism-Recommendation-System
+```
+
+---
 
 ### Step 3: Backend Setup
+
+```bash
 cd backend
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
-Run backend: python app.py
-Backend runs on: http://localhost:5000
+```
+
+Run backend:
+
+```bash
+python app.py
+```
+
+Backend runs on:
+
+```bash
+http://localhost:5000
+```
+
+---
 
 ### Step 4: Frontend Setup
 
 Open new terminal:
+
+```bash
 cd frontend
+
 npm install
-Run frontend: npm start
-Frontend runs on: http://localhost:3000
+```
+
+Run frontend:
+
+```bash
+npm start
+```
+
+Frontend runs on:
+
+```bash
+http://localhost:3000
+```
 
 ## How WAYU Works
 
